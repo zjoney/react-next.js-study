@@ -1,3 +1,0 @@
-- getStaticProps
-- getStaticPaths
-- getServerSideProps
